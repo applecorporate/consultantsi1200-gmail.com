@@ -33,7 +33,8 @@
     "uniqCompNum": 64,
     "versionPublish": "4.3.2",
     "favicon": "@PROJECT_PATH@/assets/images/apple-logo-52c416bddd-seeklogo.com-128x156.png",
-    "noImageResize": ""
+    "noImageResize": "",
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
